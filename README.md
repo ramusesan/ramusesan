@@ -1,13 +1,13 @@
 Hi 👋 My name is Ramu Srinivasan
 ================================
 
-Fullstack developer \[Node JS\]
+Fullstack developer [MERN/MEAN]
 -------------------------------
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [ramusesan@gmail.com](mailto:ramusesan@gmail.com)
-* 🧠  I'm learning Pythin ML and AI
-* 🤝  I'm open to collaborating on Ecommerce and node js projects
+* 🧠  I'm learning Python ML and AI
+* 🤝  I'm open to collaborating on E-commerce and MERN/MEAN stack projects
 
 ### Skills
 
