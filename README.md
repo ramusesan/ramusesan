@@ -6,7 +6,7 @@ Fullstack developer \[Node JS\]
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [ramusesan@gmail.com](mailto:ramusesan@gmail.com)
-* 🧠  I'm learning Next JS
+* 🧠  I'm learning Pythin ML and AI
 * 🤝  I'm open to collaborating on Ecommerce and node js projects
 
 ### Skills
